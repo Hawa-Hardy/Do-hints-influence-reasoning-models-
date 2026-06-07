@@ -85,3 +85,6 @@ This project explores **prompt sensitivity** and **reasoning reliability** in LL
 8. Two fathers two sons — overlapping roles  
 9. Rooster egg — false premise  
 10. Bus driver name — misdirection by arithmetic
+
+## Result
+60% of answers changed when misleading hints were introduced (6/10 questions).
