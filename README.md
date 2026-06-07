@@ -5,7 +5,7 @@ llm-reasoning-hint-experiments
 
 **Do hints influence reasoning models?**
 
-A lightweight evaluation of prompt sensitivity on open-weight language models. Each of 10 classic reasoning problems is tested under three prompt conditions: clean, helpful-hint, and misleading-hint. The goal is to measure how much a subtle cue can shift model behaviour — even when the cue is wrong.
+A lightweight evaluation of prompt sensitivity on open-weight language models. Each of 10 classic reasoning problems is tested under three prompt conditions: clean, helpful-hint, and misleading-hint. The goal is to measure how much a subtle cue can shift model behaviour even when the cue is wrong.
 
 ---
 
@@ -69,7 +69,7 @@ Model responses are collected into a dataframe and manually graded against groun
 
 ## Relevance
 
-This project explores **prompt sensitivity** and **reasoning reliability** in LLMs — topics closely related to mechanistic interpretability, LLM evaluation, and adversarial prompt research. The three-condition design mirrors methodology used in cognitive bias studies applied to language models.
+This project explores **prompt sensitivity** and **reasoning reliability** in LLMs, topics closely related to mechanistic interpretability, LLM evaluation, and adversarial prompt research. The three-condition design mirrors methodology used in cognitive bias studies applied to language models.
 
 ---
 
